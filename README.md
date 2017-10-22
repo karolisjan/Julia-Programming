@@ -1,2 +1,2 @@
-# Julia-Programming
-Operational Research using Julia programming language
+# Julia Programming
+Operational Research using Julia programming language.
